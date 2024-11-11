@@ -1,8 +1,3 @@
-Here’s the content for the README file in markdown format:
-
-```markdown
-# Circular Linked List in C
-
 This project implements a circular doubly linked list in C, providing several utility functions to manipulate and display the list. It includes functions to find the list tail, calculate its length, search for values, remove nodes, and insert new values either before or after specified positions. The program demonstrates these functions in the `main` function by creating a list and performing several operations.
 
 ## File Structure
